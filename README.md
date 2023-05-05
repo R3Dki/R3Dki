@@ -1,5 +1,8 @@
 # Short description about me.
-I'm a random guy that codes for fun(usually).
+I'm 17.
+I live in Sicily, Italy.
+I like to code but i have no ideas. :)
+I don't know what else to write tbh.
 ## I know these languages:
 Batch(Intermediate)<br>
 Bash(Intermediate)<br>
