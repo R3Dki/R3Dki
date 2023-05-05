@@ -16,7 +16,7 @@ I'm 17.
 <img alt="JavaScript" style="max-width: 100%;" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg">
 <img alt="Rust" style="max-width: 100%;" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/rust.svg">
 ## I use these Tools:
-<img alt="VMWare Workstation Pro" style="max-width: 100%;" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/vmware.svg">
+<img alt="VMWare Workstation Pro" style="max-width: 100%;" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/vmware.svg"></img>
 <img alt="Visual Studio" style="max-width: 100%;" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio.svg">
 <img alt="Visual Studio Code" style="max-width: 100%;" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg">
 ## btw i study electronics
