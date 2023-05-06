@@ -1,6 +1,6 @@
 # Short description about me.
 I'm 17.
-<br>I live in Sicily, Italy.
+<br>I live in Sicily, Italy. 🇮🇹
 <br>I like to code but i have no ideas. :)
 <br>I don't know what else to write tbh.
 ## I know these languages:
