@@ -3,7 +3,7 @@ I'm 17.
 <br>I live in Sicily, Italy. 🇮🇹
 <br>I like to code but have no ideas. :)
 <br>I don't know what else to write tbh.
-## I know these languages:
+## I know these Languages:
 <img alt="Batch" style="max-width: 100%;" src=""></img>
 <img alt="Bash" style="max-width: 100%;" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg">
 <img alt="C++" style="max-width: 100%;" src="">
