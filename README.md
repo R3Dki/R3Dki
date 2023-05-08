@@ -19,7 +19,7 @@ I'm 17.
 <img alt="VMWare Workstation Pro" style="max-width: 100%;" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/vmware.svg"></img>
 <img alt="Visual Studio" style="max-width: 100%;" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio.svg">
 <img alt="Visual Studio Code" style="max-width: 100%;" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg">
-## btw i study electronics
 # My Stats.
 [![R3Dki's GitHub stats](https://github-readme-stats.vercel.app/api?username=R3Dki&theme=codeSTACKr&show_icons=true)](https://github.com/R3Dki)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R3Dki&layout=compact)](https://github.com/R3Dki)
+## btw i study electronics
