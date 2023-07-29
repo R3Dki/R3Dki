@@ -11,7 +11,7 @@ I'm 17.
 
 ## My Coding Skills:
 <p align="center"><a href="https://r3dki.github.io"><img src="https://skillicons.dev/icons?i=arduino,rust,c,cpp,cs,dotnet,bash,html,css,js,java,kotlin,lua,py," /></a></p>
-<br>In most lenguages i know all the basics, but not the advanced stuff
+In most lenguages i know all the basics, but not the advanced stuff
 
 ## My Tools:
 <p align="center"><a href="https://r3dki.github.io"><img src="https://skillicons.dev/icons?i=github,autocad,ps,pr,visualstudio,vscode,eclipse,idea," /></a></p>
