@@ -1,6 +1,6 @@
 <!--Title(For this part i was inspired by Lissy93 Readme) -->
-# <p align="center">**👋 𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖 𝙰𝚗𝚝𝚘𝚗𝚒𝚘.**
-My Social Networks:<br><kbd><a href="discordapp.com/users/r3dki69"><img src="https://skillicons.dev/icons?i=discord"/></a> <a href="https://www.instagram.com/antonio_smeraldi/"><img src="https://skillicons.dev/icons?i=instagram"/></a></kbd></p>
+# <p align="center">**👋 𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖 𝙰𝚗𝚝𝚘𝚗𝚒𝚘.**</p>
+<p align="center">My Social Networks:<br><kbd><a href="discordapp.com/users/r3dki69"><img src="https://skillicons.dev/icons?i=discord"/></a> <a href="https://www.instagram.com/antonio_smeraldi"><img src="https://skillicons.dev/icons?i=instagram"/></a></kbd></p>
 - I'm 17.
 - I live in Catania, Sicily, 🇮🇹Italy🇮🇹.
 - I go to 🏫I.T.I.S Archimede🏫, 5th year of Electronics.
