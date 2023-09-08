@@ -6,8 +6,8 @@
 <summary><h1>👤About me👤</h1></summary>
 
 - I'm 17.
-- I live in Catania, Sicily, 🇮🇹Italy🇮🇹.
-- I go to 🏫I.T.I.S Archimede🏫, 5th year of Electronics.
+- I live in Sicily, 🇮🇹Italy🇮🇹.
+- I am a 5th Year Electronics student.
 - I simply like to code and have fun. :)
 <details>
 <summary><h3>🔬In Depth Description🔭</h3></summary>
