@@ -27,7 +27,7 @@
 
 ### Italian 🇮🇹
 ### English 🇬🇧🇺🇸
-### Russian 🇷🇺 (Currently learning the basics)
+<!--### Russian 🇷🇺 (Currently learning the basics)-->
 </details>
 <!--Programming Languages-->
 <details>
