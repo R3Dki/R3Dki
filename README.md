@@ -18,7 +18,7 @@
 
   After many years and lots of videos and docs read I became who I am now and by doing so I also learned a lot of lrogramming languages.
   
-  Currently I'm attending my fifth and last year of High School in Electronics.
+  Currently I'm attending the fifth year of High School in Electronics.
 </blockquote>
 </details>
 <!--Spoken Languages-->
