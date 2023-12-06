@@ -16,7 +16,7 @@
 
   I started using computers when i was very young(≈2 y.o.), afterwards when i started going to middle school i started making a few Batch scripts until i started learning HTML and CSS all by myself.
 
-  After many years and lots of videos and docs read I became who I am now and by doing so I also learned a lot of lrogramming languages.
+  After many years and lots of videos and docs read I became who I am now and by doing so I also learned a lot of programming languages.
   
   Currently I'm attending the fifth year of High School in Electronics.
 </blockquote>
