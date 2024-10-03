@@ -23,18 +23,9 @@
   Currently I'm attending the fifth year of High School in Electronics.
 </blockquote>
 </details>
-<!--Spoken Languages-->
-<details>
-<summary><h2>🗣️Languages🔈</h2></summary>
-
-### Italian 🇮🇹
-### English 🇬🇧🇺🇸
-<!--### Russian 🇷🇺 (Currently learning the basics)-->
-</details>
 <!--Programming Languages-->
-<details>
-<summary><h2>🖥️Tech Stack💻</h2></summary>
-  
+<h2>🖥️Tech Stack💻</h2>
+  <p align="center">
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
 <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
@@ -67,18 +58,26 @@
 <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" />
 <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" />
 <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
+  </p>
 
-<p align="center"><a href="https://r3dki.github.io"><kbd></kbd></a></p>
+<!--Spoken Languages-->
+<details>
+<summary><h2>🗣️Languages🔈</h2></summary>
+
+### Italian 🇮🇹
+### English 🇬🇧🇺🇸
+<!--### Russian 🇷🇺 (Currently learning the basics)-->
 </details>
-<!--Programs I can use--
+<!--<p align="center"><a href="https://r3dki.github.io"><kbd></kbd></a></p>-->
 <!--Github Stats-->
 <!--<details>-->
 <!--<summary>-->
-  <h2>📊My Stats📈</h2>
+  <h2>📊Stats📈</h2>
 <!--</summary>-->
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R3Dki&bg_color=40,ff00bf,ff112f,ff7a1e&title_color=fff&text_color=fff)](https://github.com/R3Dki)
 [![Tony S' stats](https://github-readme-stats.vercel.app/api?username=R3Dki&bg_color=40,ff00bf,ff112f,ff7a1e&title_color=fff&text_color=fff)](https://github.com/R3Dki)
+[![trophy](https://github-profile-trophy.vercel.app/?username=R3Dki&theme=onedark)](https://github.com/R3Dki/github-profile-trophy)
 <!--</details>
 </details>-->
 <!--idk-->
