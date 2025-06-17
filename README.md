@@ -7,18 +7,18 @@
   <h1>👤About me👤</h1>
 <!--</summary>-->
 
-- I'm 18.
+- I'm 19.
 - I live in Sicily, 🇮🇹Italy🇮🇹.
 - I am a University Student at UniCT studying Software Engineering.
 - I simply like to code and have fun. :)
 <details>
 <summary><h3>🔬In Depth Description🔭</h3></summary>
 <blockquote>
-  I'm a 18 y.o. Electronics Student who likes to code.
+  I'm a 19 y.o. who likes to code.
 
-  I started using computers when i was very young(≈2 y.o.), afterwards when i started going to middle school i started making a few Batch scripts until i started learning HTML and CSS all by myself.
+  I started using computers when i was very young(≈2 y.o.) and couldn't read yet, afterwards when i started going to middle school i started making a few Batch scripts until i started learning HTML and CSS all by myself. Later i started messing around with C# and C++ and managed to learn them.
 
-  After many years and lots of videos and docs read I became who I am now and by doing so I also learned a lot of programming languages.
+  After many years and lots of videos and docs read I became who I am now and by doing so I've also learned a lot of programming languages.
   
   Currently I'm attending the first year of University in Computer Science.
 </blockquote>
@@ -65,7 +65,7 @@
 <summary><h2>🗣️Languages🔈</h2></summary>
 
 ### Italian 🇮🇹
-### English 🇬🇧🇺🇸
+### English (B2 Certified but probably higher)🇬🇧🇺🇸
 <!--### Russian 🇷🇺 (Currently learning the basics)-->
 </details>
 <!--<p align="center"><a href="https://r3dki.github.io"><kbd></kbd></a></p>-->
