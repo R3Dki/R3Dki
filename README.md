@@ -7,20 +7,20 @@
   <h1>👤About me👤</h1>
 <!--</summary>-->
 
-- I'm 19.
+- I'm 20.
 - I live in Sicily, 🇮🇹Italy🇮🇹.
-- I am a University Student at UniCT studying Software Engineering.
-- I simply like to code and have fun. :)
+- I'm a CS Student at UniCT.
+- I like to code, have fun and live a good life. :)
 <details>
 <summary><h3>🔬In Depth Description🔭</h3></summary>
 <blockquote>
-  I'm a 19 y.o. who likes to code.
+  I'm a 20 y.o. who likes writes programs for fun.
 
-  I started using computers when i was very young(≈2 y.o.) and couldn't read yet, afterwards when i started going to middle school i started making a few Batch scripts until i started learning HTML and CSS all by myself. Later i started messing around with C# and C++ and managed to learn them.
+  I started using computers when I was very young(≈2 y.o.) and couldn't even read yet, during middle school I started making a few batch scripts until HTML, CSS and JS got my attention. Later I started messing around with C# and C++ and managed to learn them fairly quickly.
 
-  After many years and lots of videos and docs read I became who I am now and by doing so I've also learned a lot of programming languages.
+  After many years of playing with programming languages and computers I managed to gain quite a lot of knowledge and experience which allowed me to pass many university exams almost without studying (literally).
   
-  Currently I'm attending the first year of University in Computer Science.
+  Currently I'm a second year student.
 </blockquote>
 </details>
 <!--Programming Languages-->
@@ -65,7 +65,7 @@
 <summary><h2>🗣️Languages🔈</h2></summary>
 
 ### Italian 🇮🇹
-### English (B2 Certified but probably higher)🇬🇧🇺🇸
+### English (B2 Certified but actually higher)🇬🇧🇺🇸
 <!--### Russian 🇷🇺 (Currently learning the basics)-->
 </details>
 <!--<p align="center"><a href="https://r3dki.github.io"><kbd></kbd></a></p>-->
@@ -76,7 +76,7 @@
 <!--</summary>-->
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R3Dki&bg_color=40,ff00bf,ff112f,ff7a1e&title_color=fff&text_color=fff)](https://github.com/R3Dki)
-[![Tony S' stats](https://github-readme-stats.vercel.app/api?username=R3Dki&bg_color=40,ff00bf,ff112f,ff7a1e&title_color=fff&text_color=fff)](https://github.com/R3Dki)
+[![Tony' stats](https://github-readme-stats.vercel.app/api?username=R3Dki&bg_color=40,ff00bf,ff112f,ff7a1e&title_color=fff&text_color=fff)](https://github.com/R3Dki)
 [![trophy](https://github-profile-trophy.vercel.app/?username=R3Dki&theme=onedark)](https://github.com/R3Dki/github-profile-trophy)
 <!--</details>
 </details>-->
